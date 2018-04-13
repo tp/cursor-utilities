@@ -1,0 +1,23 @@
+{
+    "compilerOptions": {
+        "module": "commonjs",
+        "lib": [
+            "es2015",
+            "dom",
+        ],
+        "target": "es5",
+        "strict": true,
+        "downlevelIteration": true,
+        "removeComments": true,
+        "preserveConstEnums": true,
+        "outDir": "lib/",
+        "sourceMap": true
+    },
+    "include": [
+        "src/**/*"
+    ],
+    "exclude": [
+        "node_modules",
+        "**/*.spec.ts"
+    ]
+}
