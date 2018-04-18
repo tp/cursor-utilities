@@ -2,6 +2,7 @@
   "name": "cursor-utilities",
   "version": "1.0.0",
   "main": "lib/index.js",
+  "typings": "lib/index.d.ts",
   "author": "Timm Preetz <timm@preetz.us>",
   "license": "MIT",
   "devDependencies": {

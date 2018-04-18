@@ -12,7 +12,8 @@
         "preserveConstEnums": true,
         "outDir": "lib/",
         "sourceMap": true,
-        "inlineSources": true
+        "inlineSources": true,
+        "declaration": true
     },
     "include": [
         "src/**/*"
